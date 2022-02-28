@@ -1,0 +1,19 @@
+segment_sources:
+  P2DCEFF3D:
+    type: origin_type
+    relation: translation
+    language: en
+  P8977BC98:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  6bf82659f9b24ababfc3dfcf80ba8ac7:
+    P2DCEFF3D: 779b10defedf4aa4b12d681ece4ea9d8
+    P8977BC98: 0da5b0a6423940a8b1d222ee6981226f
+  b290466067244965ad66c29696557ce3:
+    P2DCEFF3D: c1ddde42c7fb49b092af9dfaa402b963
+    P8977BC98: b2167dc30046415c98864b69a2ba6cd8
+  5660932cb8cc4d90bcefbb702f5767f4:
+    P2DCEFF3D: 03adb87f1ae84ae8a91274e570adda7f
+    P8977BC98: faaaebad003241a3aae688cf8f252139
